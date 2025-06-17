@@ -1,0 +1,7 @@
+portfolio.list:
+  path: '/portfolio'
+  defaults:
+    _controller: '\Drupal\portfolio\Controller\PortfolioController::list'
+    _title: 'My Portfolio'
+  requirements:
+    _permission: 'access content'
