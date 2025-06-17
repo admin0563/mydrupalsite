@@ -1,0 +1,5 @@
+name: Portfolio
+type: module
+description: 'A simple custom module to show a portfolio page.'
+core_version_requirement: ^8 || ^9 || ^10 ||^11
+package: Custom
